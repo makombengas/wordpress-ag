@@ -16,7 +16,7 @@ const geistMono = localFont({
 
 export const metadata = {
   title: "Wordpress AG",
-  description: "Ein spannender Kurs für Schüler ab der 7. Klasse .",
+  description: "Ein spannender Kurs für Schüler ab der 7. Klasse",
 };
 
 export default function RootLayout({ children }) {
